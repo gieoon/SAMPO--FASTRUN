@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "601425133258",
+    "firebase_url": "https://sampo-23934.firebaseio.com",
+    "project_id": "sampo-23934",
+    "storage_bucket": "sampo-23934.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601425133258:android:90379b51cbe0f231",
+        "android_client_info": {
+          "package_name": "com.example.jun.sampo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601425133258-huondqgeo8m9s8s3coln5i5p7k88uirp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHfSkjeeGPCzV-k5NKb_7vdjPheFliW0o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

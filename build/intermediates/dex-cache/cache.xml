@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jun\.android\build-cache\003c7e16ba37c9e6948adfd156f4e522e4e8b207\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="76a7a625df0e9027b53dbed6e9ba9a6031a42e39">
+        <dex dex="C:\wamp64\www\puzzle_game_phaser\blob-mobile2\blob2\platforms\SAMPO\app\build\intermediates\pre-dexed\debug\classes_f06903d98c96f11f121ac84dd3b48189e2117573.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jun\.android\build-cache\833aa70aebe8c7aded36bef29d408646d677dc9e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3da345d7c08a7e9d83a34d8723057624b941c0ea">
+        <dex dex="C:\wamp64\www\puzzle_game_phaser\blob-mobile2\blob2\platforms\SAMPO\app\build\intermediates\pre-dexed\debug\classes_bfe8244058ccf8b90c2be4abcb8a3f6c23f3ac6c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jun\.android\build-cache\833aa70aebe8c7aded36bef29d408646d677dc9e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3da345d7c08a7e9d83a34d8723057624b941c0ea">
+        <dex dex="C:\wamp64\www\puzzle_game_phaser\blob-mobile2\blob2\platforms\SAMPO\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bfe8244058ccf8b90c2be4abcb8a3f6c23f3ac6c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\wamp64\www\puzzle_game_phaser\blob-mobile2\blob2\platforms\SAMPO\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\wamp64\www\puzzle_game_phaser\blob-mobile2\blob2\platforms\SAMPO\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e6ba8ab562be73c6d2063230e30b6349e8dc23cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jun\.android\build-cache\192b4b7b49e01c09409f4395be06eb6b60cc9aa3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="03589bac12234193d4a7a9b106a6db1b367afe99">
+        <dex dex="C:\wamp64\www\puzzle_game_phaser\blob-mobile2\blob2\platforms\SAMPO\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_050d9c2388ab666fd218d164e209b44d5297fe8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jun\.android\build-cache\caa5ecd4f58df0bd75d0ef9e1ea94d339d192b23\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="edba0aec4aedd4edb3a520b4ee87adc52be762da">
+        <dex dex="C:\wamp64\www\puzzle_game_phaser\blob-mobile2\blob2\platforms\SAMPO\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fa1d4f621f84fd44eb562ef3aaf26db0de777813\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jun\.android\build-cache\511de85e57e9cad2bee6aa76120a6fd70378d5b1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c478771eacdf8217e093a1b967b8152cfdaadc94">
+        <dex dex="C:\wamp64\www\puzzle_game_phaser\blob-mobile2\blob2\platforms\SAMPO\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_71405ed5b1cd54b1e1d70f80130b048a9d0c1bfd\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jun\.android\build-cache\caa5ecd4f58df0bd75d0ef9e1ea94d339d192b23\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="edba0aec4aedd4edb3a520b4ee87adc52be762da">
+        <dex dex="C:\wamp64\www\puzzle_game_phaser\blob-mobile2\blob2\platforms\SAMPO\app\build\intermediates\pre-dexed\debug\classes_fa1d4f621f84fd44eb562ef3aaf26db0de777813.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jun\.android\build-cache\511de85e57e9cad2bee6aa76120a6fd70378d5b1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c478771eacdf8217e093a1b967b8152cfdaadc94">
+        <dex dex="C:\wamp64\www\puzzle_game_phaser\blob-mobile2\blob2\platforms\SAMPO\app\build\intermediates\pre-dexed\debug\classes_71405ed5b1cd54b1e1d70f80130b048a9d0c1bfd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jun\.android\build-cache\192b4b7b49e01c09409f4395be06eb6b60cc9aa3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="03589bac12234193d4a7a9b106a6db1b367afe99">
+        <dex dex="C:\wamp64\www\puzzle_game_phaser\blob-mobile2\blob2\platforms\SAMPO\app\build\intermediates\pre-dexed\debug\classes_050d9c2388ab666fd218d164e209b44d5297fe8e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\wamp64\www\puzzle_game_phaser\blob-mobile2\blob2\platforms\SAMPO\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e57c20675799cc08bfbd9afb5d9410693ebf5f99">
+        <dex dex="C:\wamp64\www\puzzle_game_phaser\blob-mobile2\blob2\platforms\SAMPO\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_d2b55e9614621da677804e01fc7195f3b83ac90c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jun\.android\build-cache\642db2cbf419c994a58e1f66dda4763e07a56f3a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="132a3661719fdac703f2a6f6a7b178c85cfe3cc6">
+        <dex dex="C:\wamp64\www\puzzle_game_phaser\blob-mobile2\blob2\platforms\SAMPO\app\build\intermediates\pre-dexed\debug\classes_5ffb03d6b773cb534c4c98a0c2320d4c584434eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jun\.android\build-cache\fca4563077d0f3499951cb91b7fc0c965aec39e2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7b4dc2d9e39fb8ec5ddca9b3b3cb7c627690f3a6">
+        <dex dex="C:\wamp64\www\puzzle_game_phaser\blob-mobile2\blob2\platforms\SAMPO\app\build\intermediates\pre-dexed\debug\classes_e35a67d115f73bd5e54c20d71d3bfac5ac6ec8d0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jun\.android\build-cache\642db2cbf419c994a58e1f66dda4763e07a56f3a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="132a3661719fdac703f2a6f6a7b178c85cfe3cc6">
+        <dex dex="C:\wamp64\www\puzzle_game_phaser\blob-mobile2\blob2\platforms\SAMPO\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5ffb03d6b773cb534c4c98a0c2320d4c584434eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jun\.android\build-cache\ba427230182476ea26359c88ef114b029dc2d4d3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cad6f251cba07624f49b0c5b6287731a3c9957b8">
+        <dex dex="C:\wamp64\www\puzzle_game_phaser\blob-mobile2\blob2\platforms\SAMPO\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5bc32f80097ec1a5da85e3578293069acd7a130b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jun\.android\build-cache\003c7e16ba37c9e6948adfd156f4e522e4e8b207\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="76a7a625df0e9027b53dbed6e9ba9a6031a42e39">
+        <dex dex="C:\wamp64\www\puzzle_game_phaser\blob-mobile2\blob2\platforms\SAMPO\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f06903d98c96f11f121ac84dd3b48189e2117573\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jun\.android\build-cache\fca4563077d0f3499951cb91b7fc0c965aec39e2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7b4dc2d9e39fb8ec5ddca9b3b3cb7c627690f3a6">
+        <dex dex="C:\wamp64\www\puzzle_game_phaser\blob-mobile2\blob2\platforms\SAMPO\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e35a67d115f73bd5e54c20d71d3bfac5ac6ec8d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jun\.android\build-cache\ba427230182476ea26359c88ef114b029dc2d4d3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cad6f251cba07624f49b0c5b6287731a3c9957b8">
+        <dex dex="C:\wamp64\www\puzzle_game_phaser\blob-mobile2\blob2\platforms\SAMPO\app\build\intermediates\pre-dexed\debug\classes_5bc32f80097ec1a5da85e3578293069acd7a130b.jar" />
+    </item>
+
+</items>
